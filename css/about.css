@@ -1,0 +1,13 @@
+/* TABLET */
+@media (min-width: 768px) {
+    .about-page .row {
+        flex-direction: row;
+    }
+    .about-page .col {
+        flex: 1;
+    }
+}
+
+.about-page p {
+	text-align: center;
+}
